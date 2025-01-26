@@ -40,4 +40,4 @@ chmod +x a.out
 
 ## License
 
-This repository is distributed under GNU GENERAL PUBLIC LICENSE.
+This repository is distributed under [GNU GENERAL PUBLIC LICENSE](LICENSE).
